@@ -1,0 +1,19 @@
+.loginButton {
+    .flex-container {
+        display: flex;  /* This will set the container as a flex container */
+        justify-content: space-between; /* Optional: This will space out the items evenly */
+        align-items: center; /* Optional: This will vertically align the items to the center */
+    }
+}
+
+.loginButtonDiv {
+    background-color: aqua;
+}
+
+.loginButtonImage {
+    display: flex;
+}
+
+.loginButtonText {
+    display: flex;
+}
